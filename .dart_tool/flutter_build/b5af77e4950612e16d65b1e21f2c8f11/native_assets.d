@@ -1,0 +1,1 @@
+ D:\\projects\\flutter\\number_trivia\\.dart_tool\\flutter_build\\b5af77e4950612e16d65b1e21f2c8f11\\native_assets.yaml: 
